@@ -1,4 +1,4 @@
-#Data Science from Scratch
+Data Science from Scratch
 ---
 This repository is for studying the book "Data Science from Scratch"
 
