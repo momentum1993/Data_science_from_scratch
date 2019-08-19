@@ -49,5 +49,5 @@ Lecture 34: a look ahead
   
 ### references  
   
-"Statistics 110: Probability", Projects at Havard ,[https://projects.iq.harvard.edu/stat110](https://projects.iq.harvard.edu/stat110)  
-"[하버드] 확률론 기초: Statistics 110",  eduwith, [https://www.edwith.org/harvardprobability](https://www.edwith.org/harvardprobability)   
+"Statistics 110: Probability", Projects at Havard, [https://projects.iq.harvard.edu/stat110](https://projects.iq.harvard.edu/stat110)  
+"[하버드] 확률론 기초: Statistics 110",  edwith, [https://www.edwith.org/harvardprobability](https://www.edwith.org/harvardprobability)   
