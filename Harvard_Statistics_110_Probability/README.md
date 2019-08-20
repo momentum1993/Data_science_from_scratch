@@ -42,8 +42,8 @@ The lecture was held in Havard University.
 [Lecture 30: Chi-Square, Student-t, Multivariate Normal](https://github.com/momentum1993/Data_science_from_scratch/blob/master/Harvard_Statistics_110_Probability/Chap30.%20Chi-Square%2C%20Student-t%2C%20Multivariate%20Normal.ipynb)  
 [Lecture 31: Markov chains, transition matrix, stationary distribution](https://github.com/momentum1993/Data_science_from_scratch/blob/master/Harvard_Statistics_110_Probability/Chap31.%20Markov%20Chains.ipynb)  
 [Lecture 32: Markov chains (cont.), irreducibility, reversibility, random walk on an undirected network](https://github.com/momentum1993/Data_science_from_scratch/blob/master/Harvard_Statistics_110_Probability/Chap32.%20Markov%20Chains%20Continued.ipynb)  
-Lecture 33: Markov chains (cont.), Google PageRank as a Markov chain  
-Lecture 34: a look ahead  
+[Lecture 33: Markov chains (cont.), Google PageRank as a Markov chain](https://github.com/momentum1993/Data_science_from_scratch/blob/master/Harvard_Statistics_110_Probability/Chap33.%20Markov%20Chains%20Continued%20Further.ipynb)  
+[Lecture 34: a look ahead](https://github.com/momentum1993/Data_science_from_scratch/blob/master/Harvard_Statistics_110_Probability/Chap34.%20A%20Look%20Ahead.ipynb)  
   
 ---  
   
